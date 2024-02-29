@@ -1,0 +1,30 @@
+.div1 {
+    max-width: 500px;
+    margin: auto;
+}
+.iphone-image {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+.timer {
+    font-size: 50px;
+    
+}
+.time span {
+    font-size: 2em;
+}
+body {
+    background-color: rgb(236, 237, 240);
+}
+h1 {
+    color: rgb(34, 34, 31);
+    font-size: 40px;
+}
+.word {
+    font-size: 19px;
+}
+.now {
+    font-size: 100px;
+    width: 50px;
+}
